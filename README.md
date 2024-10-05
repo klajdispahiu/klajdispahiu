@@ -28,7 +28,7 @@ Alwgays eager to learn and do more
 
 🚀 My Interests
 Open Source:
-I love contributing to open-source projects! Check out some of my contributions in [repository link] or explore my pinned repos below.
+I love contributing to open-source projects! Feel free to explore my repos below.
 
 Machine Learning:
 Exploring new algorithms, working on exciting ML projects, and diving into deep learning frameworks like TensorFlow and PyTorch.
